@@ -1,0 +1,62 @@
+html {
+  height: 100%;
+  background-color:#62b5d1, #347708;
+  background: linear-gradient(80deg, #62b5d1 20%, #9fd9e0);
+  background-size: 85% 600%, contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+body {
+  height: 100%;
+  font-family:courier;
+  font-weight: 800;
+}
+
+.header {
+  padding-left: 450px;
+}
+.profile {
+  text-align: center;
+  align-items: center;
+  display: flex;
+  padding-left: 200px;
+  
+}
+
+img {
+  width: 200px;
+  border-radius: 15px;
+
+}
+
+aside {
+  float: right;
+   transform: rotate(10deg);
+  text-align: right;
+  border-radius: 15px;
+}
+.exp-header {
+  margin: 100px;
+  text-transform: uppercase;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  padding: 2px;
+  text-align: center;
+  width: 80%
+}
+.exp {
+  text-align: center;
+  list-style-position: inside;
+}
+.edu {
+  border-top: 1px solid black;
+  text-align: center;
+  margin: 0 auto;
+  width: 50%;
+  padding-bottom: 50px;
+}
+
+#p2 {
+  text-decoration: underline;
+  text-decoration-color: solid black;
+}
