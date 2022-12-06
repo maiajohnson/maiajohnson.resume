@@ -1,1 +1,1 @@
-# maiajohnson.github.io
+# maiajohnson.resume
